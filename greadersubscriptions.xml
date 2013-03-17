@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>lamaofruin subscriptions in Google Reader</title>
+    </head>
+    <body>
+        <outline text="(title unknown)" title="(title unknown)"
+            type="rss" xmlUrl="http://pajoohyar.com/newsfeed" htmlUrl="http://pajoohyar.com/news"/>
+        <outline text="Ars Technica" title="Ars Technica" type="rss"
+            xmlUrl="http://arstechnica.com/members/45928ace31705899/feeds/everything.xml" htmlUrl="http://arstechnica.com"/>
+        <outline text="Ars Technica" title="Ars Technica" type="rss"
+            xmlUrl="http://feeds.arstechnica.com/arstechnica/etc?format=xml" htmlUrl="http://arstechnica.com/index.php"/>
+        <outline text="Ars Technica Features"
+            title="Ars Technica Features" type="rss"
+            xmlUrl="http://arstechnica.com/members/45928ace31705899/feeds/features/index.xml" htmlUrl="http://arstechnica.com"/>
+        <outline text="citeproc-js feed" title="citeproc-js feed"
+            type="rss"
+            xmlUrl="https://bitbucket.org/fbennett/citeproc-js/rss?token=c566adb106f26292e5e57c1e8e5446b6" htmlUrl="https://bitbucket.org/"/>
+        <outline text="Computers And Society updates on arXiv.org"
+            title="Computers And Society updates on arXiv.org"
+            type="rss" xmlUrl="http://export.arxiv.org/rss/cs.CY" htmlUrl="http://arxiv.org/"/>
+        <outline text="cs.AI updates on arXiv.org"
+            title="cs.AI updates on arXiv.org" type="rss"
+            xmlUrl="http://export.arxiv.org/rss/cs.AI" htmlUrl="http://arxiv.org/"/>
+        <outline text="cs.DC updates on arXiv.org"
+            title="cs.DC updates on arXiv.org" type="rss"
+            xmlUrl="http://export.arxiv.org/rss/cs.DC" htmlUrl="http://arxiv.org/"/>
+        <outline text="cs.DL updates on arXiv.org"
+            title="cs.DL updates on arXiv.org" type="rss"
+            xmlUrl="http://export.arxiv.org/rss/cs.DL" htmlUrl="http://arxiv.org/"/>
+        <outline text="cs.IR updates on arXiv.org"
+            title="cs.IR updates on arXiv.org" type="rss"
+            xmlUrl="http://export.arxiv.org/rss/cs.IR" htmlUrl="http://arxiv.org/"/>
+        <outline text="cs.MA updates on arXiv.org"
+            title="cs.MA updates on arXiv.org" type="rss"
+            xmlUrl="http://export.arxiv.org/rss/cs.MA" htmlUrl="http://arxiv.org/"/>
+        <outline text="cs.NI updates on arXiv.org"
+            title="cs.NI updates on arXiv.org" type="rss"
+            xmlUrl="http://export.arxiv.org/rss/cs.NI" htmlUrl="http://arxiv.org/"/>
+        <outline title="Listen Subscriptions" text="Listen Subscriptions">
+            <outline text="Digital Campus" title="Digital Campus"
+                type="rss"
+                xmlUrl="http://feeds.feedburner.com/digitalcampus" htmlUrl="http://digitalcampus.tv"/>
+            <outline text="NodeUp" title="NodeUp" type="rss"
+                xmlUrl="http://feeds.feedburner.com/NodeUp" htmlUrl="http://nodeup.com"/>
+            <outline text="Science Talk" title="Science Talk" type="rss"
+                xmlUrl="http://rss.sciam.com/sciam/science-talk" htmlUrl="http://www.scientificamerican.com/podcast/"/>
+        </outline>
+    </body>
+</opml>
